@@ -1,1 +1,1 @@
-# healthcare_projects
+# Healthcare Projects

@@ -1,0 +1,4 @@
+Best model: Autoencoder
+Framework: tensorflow
+Test AUC: 0.8382
+Test F1: 0.1813
